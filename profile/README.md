@@ -3,6 +3,7 @@
 본 프로젝트는 CJ OliveNetworks의 CloudWave 3기 인턴십의 일환으로 제작된 안정적이고 확장 가능한 영화 예매 플랫폼입니다. 인기 영화 개봉 및 특정 시간대에 급증하는 트래픽을 안정적으로 처리하는 것을 목표로 합니다.
 
 ## 🌐 아키텍처 개요
+![image](https://github.com/user-attachments/assets/6b1820cc-1b3d-4bd9-ab4a-f19f7d13f53c)
 
 본 플랫폼은 두 개의 AWS 리전(서울, 싱가포르)에 걸쳐 세 가지 주요 VPC로 구성되어 있습니다.
 
@@ -43,6 +44,7 @@
 This project was developed as part of the CJ OliveNetworks CloudWave 3rd Cohort Internship, aiming to provide a robust and scalable movie ticketing platform capable of handling high volumes of traffic during movie releases and special events.
 
 ## 🌐 Architecture Overview
+![image](https://github.com/user-attachments/assets/01d91ead-5d11-4417-b873-de467e80a6d4)
 
 The platform consists of three primary VPCs across two AWS regions:
 
